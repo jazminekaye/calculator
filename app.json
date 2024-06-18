@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "blank",
+    "slug": "blank",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1fd7e641-60e7-4a80-9ce1-d381ae20f249"
+      }
+    },
+    "android": {
+      "package": "jazminekaye.calcu"
+    }
+  }
+}
